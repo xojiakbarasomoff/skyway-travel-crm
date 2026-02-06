@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SkyWay Travel CRM",
+  "description": "A professional-grade CRM for travel agencies featuring lead management, booking tracking, and AI-powered destination planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
